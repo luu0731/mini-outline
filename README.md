@@ -40,8 +40,6 @@ make clean && make apple
 
 [iOS Demo](https://github.com/luu0731/mini-outline-ios)
 
-[macOs Demo](https://github.com/luu0731/mini-outline-macos)
-
 ### Android
 
 Run the commands below to produce the library that support `Android`.
